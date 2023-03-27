@@ -1,0 +1,27 @@
+.container{
+    max-width: 300px;
+    border: 2px solid red;
+    padding: 10px; 
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}
+
+.first{
+    width: 100%;
+    line-height: 25px;
+}
+.second{
+    width: 100%;
+    line-height: 25px;
+    margin-top: 10px;
+}
+.LinkContainer{
+    text-align: center;
+}
+.LinkContainer a{
+    text-decoration: none;
+    font-size: 12px;
+}
+ 
